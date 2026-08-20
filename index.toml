@@ -1,0 +1,89 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/assets/albert_castle_1.png"
+hash = "0bb74ded65964711ecd008369ade455d882b43b596522cccd815d608f5c9c788"
+
+[[files]]
+file = "config/fancymenu/assets/minecraft_kaida_title.png"
+hash = "513519d3c308c419dd910d88208769e0fbbf14c55cc4776c8c7367f906385b2b"
+
+[[files]]
+file = "config/fancymenu/assets/splashes.txt"
+hash = "6d05eaf4b5d896e34955cdd54934f1fd7ec6ebc90983f2713c7de79c845038a5"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "4f0fdaa5574ccf82facf13a5618cffcf794df3d4059381a1e40c91ad776463a2"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "52c4907a4c2b549526c2944881825228e86bfb5111154ec9b28639d8c7be55f1"
+
+[[files]]
+file = "config/fancymenu/customization/modded_kaida.txt"
+hash = "6c25cd400c48d7749c165e627139bb63f700fbe5dce4cf2c79758273c5240f97"
+
+[[files]]
+file = "config/fancymenu/customization/universal_kaida_background.txt"
+hash = "1ee320807a65742907a42538567e53f7cea2e8d293626cb0b6f9ab480c243e6f"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "05ad989314b8ad14d30bbb725deda53d97bff4c969f18036105451ed179fc207"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama1/panorama/panorama_0.png"
+hash = "8e97200b2b55d0a553321e05687600d5f61e2149aa34ab0130a822870e528dcd"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama1/panorama/panorama_1.png"
+hash = "ca238c25a89455c0022044c9e97992c7b4fabe0d435e201d48248a6a58fa12ca"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama1/panorama/panorama_2.png"
+hash = "5c76cbd1231d8274a61d6d4834078e40ca1bfc61e32a89a3f4c641fe0f93de07"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama1/panorama/panorama_3.png"
+hash = "3d3ebc039918dca151fcddd5371862b5eae12ec721f4b88190c2c10e3890e1b9"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama1/panorama/panorama_4.png"
+hash = "350096eaca2e586da09deb5e4a15ce9172717c850ccdbec9ad2094595453e708"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama1/panorama/panorama_5.png"
+hash = "45bd01345b7cc100d8ffd07807971b0eb87f7ecd8814dda06d756a2d83c1e742"
+
+[[files]]
+file = "config/fancymenu/panoramas/panorama1/properties.txt"
+hash = "6ff47d25c5bdaf59262ce3c94eb23c45a5703a39729000866f1baf8102df1839"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/smoothmovement.json"
+hash = "708c51215b62af1e24cb3756a9c296ec96d07247402b6ac323219f9b8d94f2ce"
+
+[[files]]
+file = "mods/smoothmovement-1.21.1-2.7.jar"
+hash = "af912c4992eb9cb47628cd112021937b4d7d11cdd5a89051bdf126742e2c1c57"
