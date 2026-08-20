@@ -85,5 +85,9 @@ file = "config/smoothmovement.json"
 hash = "708c51215b62af1e24cb3756a9c296ec96d07247402b6ac323219f9b8d94f2ce"
 
 [[files]]
+file = "mods/addictives-3.1.9.jar"
+hash = "088e8f30eb64984f8ec78f9f6311306122a7ae5a8e9349d514a897faad2ac760"
+
+[[files]]
 file = "mods/smoothmovement-1.21.1-2.7.jar"
 hash = "af912c4992eb9cb47628cd112021937b4d7d11cdd5a89051bdf126742e2c1c57"
