@@ -18,11 +18,15 @@ hash = "4f0fdaa5574ccf82facf13a5618cffcf794df3d4059381a1e40c91ad776463a2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "52c4907a4c2b549526c2944881825228e86bfb5111154ec9b28639d8c7be55f1"
+hash = "d49eb88cb6e4842d0de65b8cd4932b38654a4cf1a992317a6cf33ae230878a71"
 
 [[files]]
 file = "config/fancymenu/customization/modded_kaida.txt"
-hash = "6c25cd400c48d7749c165e627139bb63f700fbe5dce4cf2c79758273c5240f97"
+hash = "d670d1f03c0517141c5002a0d80a364ed25d57a45a0b109fb81dddd76882607e"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "3b4d3ebb57f16ee2f62aeedc4d7bba33310bee4bdcb031d188cd672c2483d2fa"
 
 [[files]]
 file = "config/fancymenu/customization/universal_kaida_background.txt"
@@ -85,8 +89,28 @@ file = "config/smoothmovement.json"
 hash = "708c51215b62af1e24cb3756a9c296ec96d07247402b6ac323219f9b8d94f2ce"
 
 [[files]]
+file = "mods/AeroEngine-1.3.0.jar"
+hash = "5d9f86d8345beb25189e21044ecd19c9140c77c6e9010fb1a7f2250fde775e05"
+
+[[files]]
 file = "mods/addictives-3.1.9.jar"
 hash = "088e8f30eb64984f8ec78f9f6311306122a7ae5a8e9349d514a897faad2ac760"
+
+[[files]]
+file = "mods/aeroengine_fuel_compat-0.0.2.jar"
+hash = "305d5e6345cf6005e8dd2e32584f81d99ce6ebb3f8001d49c29566c8c259682a"
+
+[[files]]
+file = "mods/create_the_air_wars-4.67.jar"
+hash = "231cd061e3081e8ffe62ab48f1c47fc618cdb37d1a897f6b9097709a2d45575a"
+
+[[files]]
+file = "mods/decocraft-3.0.11-1.21.1-neoforge.jar"
+hash = "b0589eb7d03b13bbf3b9c45df7f50db556a721882e9ad2bb6be0ff23e5a64526"
+
+[[files]]
+file = "mods/sablefloaters-1.0.0.jar"
+hash = "7086df8b3bca25c38d3db493ea9f999ee623e84b0056d3163cd8784bd701e643"
 
 [[files]]
 file = "mods/smoothmovement-1.21.1-2.7.jar"
