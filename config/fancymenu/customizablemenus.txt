@@ -114,3 +114,6 @@ net.minecraft.client.gui.screens.LevelLoadingScreen {
 net.minecraft.client.gui.screens.GenericMessageScreen {
 }
 
+net.minecraft.client.gui.screens.PauseScreen {
+}
+
