@@ -89,24 +89,96 @@ file = "config/smoothmovement.json"
 hash = "708c51215b62af1e24cb3756a9c296ec96d07247402b6ac323219f9b8d94f2ce"
 
 [[files]]
+file = "mods/AE2-TangibleBookmarks-1.21.1-19.1.0.jar"
+hash = "1ba0b898e71603ce3cf0977b3115d41df1f023999a978127457dc3267dff7ca6"
+
+[[files]]
+file = "mods/AdvancedLootInfo-neoforge-1.21.1-1.12.0.jar"
+hash = "67b5e5cbf7ab780042b6aa86ade5f14eaf006c810daed66046bc5f85033e9714"
+
+[[files]]
 file = "mods/AeroEngine-1.3.0.jar"
 hash = "5d9f86d8345beb25189e21044ecd19c9140c77c6e9010fb1a7f2250fde775e05"
+
+[[files]]
+file = "mods/Applied-Mekanistics-1.6.3.jar"
+hash = "8946fea39451dbce8e709dedbef40a52ba337bdf7a25ac0c4b503800b1bf0773"
+
+[[files]]
+file = "mods/JustEnoughBeacons-NeoForge-1.21-1.3.0.jar"
+hash = "a8a57c8ac8d22c7f63592f4924e14fcefee9890263623fcd16f52e1a9857b4dd"
+
+[[files]]
+file = "mods/JustEnoughMekanismMultiblocks-1.21.1-7.7.jar"
+hash = "bcb1e9506cd5c0c9239a75c228e502c75dddb197d3e53a3a7ed86260f128ab1c"
+
+[[files]]
+file = "mods/KotlinLangForge-2.13.0-k2.4.10-3.0+neoforge.jar"
+hash = "a419be05de579bf932845e31084e1907fa2007f555bd888697854ca12333886d"
+
+[[files]]
+file = "mods/MekanismGenerators-1.21.1-10.7.19.85.jar"
+hash = "0e5783b111e756f27b48c62b2f0e02fff750c77f7985ff809bfadc5f444ba4ac"
+
+[[files]]
+file = "mods/Myotus-1.21.1-19.1.1.jar"
+hash = "08cdd47aa79a782cb593ad8c9583291621e346db3a26049a0eb46be14bf6dfe6"
 
 [[files]]
 file = "mods/addictives-3.1.9.jar"
 hash = "088e8f30eb64984f8ec78f9f6311306122a7ae5a8e9349d514a897faad2ac760"
 
 [[files]]
+file = "mods/ae2jeiintegration-1.2.1.jar"
+hash = "2989c5d762d3f14a58b4db6519daaff81e719dff3445a2b39328948ac23e548b"
+
+[[files]]
 file = "mods/aeroengine_fuel_compat-0.0.2.jar"
 hash = "305d5e6345cf6005e8dd2e32584f81d99ce6ebb3f8001d49c29566c8c259682a"
+
+[[files]]
+file = "mods/configured-neoforge-1.21.1-2.6.3.jar"
+hash = "421ffd2604b5487cbdb284d1eb5d1cb8a7d28f3ff84d5b4bda25e0a579282a15"
 
 [[files]]
 file = "mods/create_the_air_wars-4.67.jar"
 hash = "231cd061e3081e8ffe62ab48f1c47fc618cdb37d1a897f6b9097709a2d45575a"
 
 [[files]]
+file = "mods/createjustenoughtime-1.21.1-1.0.4.jar"
+hash = "bba9502778528ddf49f8c33c2729ec9619c0569c2766468742a9c7a4dd4d1af1"
+
+[[files]]
 file = "mods/decocraft-3.0.11-1.21.1-neoforge.jar"
 hash = "b0589eb7d03b13bbf3b9c45df7f50db556a721882e9ad2bb6be0ff23e5a64526"
+
+[[files]]
+file = "mods/ftb-jei-extras-21.1.7.jar"
+hash = "141b02587d71a6591e71c1ed50de5ddd5b297bb580e26aabf1273bb6fbdbe6dd"
+
+[[files]]
+file = "mods/ftb-library-neoforge-2101.1.35.jar"
+hash = "be7b2bd0b5370a9951624a1d84fd802efecae88d5a0cd24552731f887430599d"
+
+[[files]]
+file = "mods/jeed-1.21-2.3.3.jar"
+hash = "b3ff4795e0cbb491ffada136884a78ba8d66df5d9c3c44230bffdbfa3dc797d7"
+
+[[files]]
+file = "mods/jeioptimizer-1.21.1-1.0.5.jar"
+hash = "1e58bb17ef798e5a9594b7e1cced87e1d3487d7003c52948c35b9415ceb0af35"
+
+[[files]]
+file = "mods/mekagenjei-1.2.jar"
+hash = "ac5e5a3600e1d45c5326fc28cbe71f62c2cdaaa2402886e238f2c462119a56c7"
+
+[[files]]
+file = "mods/more-enchantment-info-0.4.2.jar"
+hash = "c01b127336ca27bf17dddbd645714cb77f2be4b1a421f41efa581ae2458e6649"
+
+[[files]]
+file = "mods/preloading-tricks-3.7.3.jar"
+hash = "b108b4a27707cbe01061f1a844a9afb4a77a3b42b2a221e6fa592d46f9d576b1"
 
 [[files]]
 file = "mods/sablefloaters-1.0.0.jar"
@@ -115,3 +187,7 @@ hash = "7086df8b3bca25c38d3db493ea9f999ee623e84b0056d3163cd8784bd701e643"
 [[files]]
 file = "mods/smoothmovement-1.21.1-2.7.jar"
 hash = "af912c4992eb9cb47628cd112021937b4d7d11cdd5a89051bdf126742e2c1c57"
+
+[[files]]
+file = "mods/sophisticated_jei_index-1.1.2+1.21.1.jar"
+hash = "c4e34fbba24b46aa4902d93bb46da94e5d44bd7516e271b39fdcdcc3a60f012c"
