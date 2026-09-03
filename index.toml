@@ -181,6 +181,10 @@ file = "mods/preloading-tricks-3.7.3.jar"
 hash = "b108b4a27707cbe01061f1a844a9afb4a77a3b42b2a221e6fa592d46f9d576b1"
 
 [[files]]
+file = "mods/sablefix-2.1.0.jar"
+hash = "99cc46a850a3bc58a1ba3f3d343d6cff1e4038c3a793e885f38d1180fbd1dcb8"
+
+[[files]]
 file = "mods/sablefloaters-1.0.0.jar"
 hash = "7086df8b3bca25c38d3db493ea9f999ee623e84b0056d3163cd8784bd701e643"
 
@@ -191,3 +195,7 @@ hash = "af912c4992eb9cb47628cd112021937b4d7d11cdd5a89051bdf126742e2c1c57"
 [[files]]
 file = "mods/sophisticated_jei_index-1.1.2+1.21.1.jar"
 hash = "c4e34fbba24b46aa4902d93bb46da94e5d44bd7516e271b39fdcdcc3a60f012c"
+
+[[files]]
+file = "mods/tt20-0.8.4+mc1.21.1-neoforge.jar"
+hash = "a6b05d9d890d4b77d8ffa593708d20f4e778a365e4cf9612c78dfd0266bea3d8"
