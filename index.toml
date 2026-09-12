@@ -137,6 +137,10 @@ file = "mods/aeroengine_fuel_compat-0.0.2.jar"
 hash = "305d5e6345cf6005e8dd2e32584f81d99ce6ebb3f8001d49c29566c8c259682a"
 
 [[files]]
+file = "mods/alex-caves-enchantment-fix-1.21.1-1.1.0.jar"
+hash = "2d2bfc75edcfdb9918c9c3810542ace99dcb7128ff68537a1a62a92536bce1c1"
+
+[[files]]
 file = "mods/armor-glint-compat-1.21.1-1.0.0.jar"
 hash = "6f9fb54381e4d404437e44b03f4741a2306e7f166ec95d3dcac7caf5068fbd4e"
 
@@ -191,6 +195,10 @@ hash = "c01b127336ca27bf17dddbd645714cb77f2be4b1a421f41efa581ae2458e6649"
 [[files]]
 file = "mods/preloading-tricks-3.7.3.jar"
 hash = "b108b4a27707cbe01061f1a844a9afb4a77a3b42b2a221e6fa592d46f9d576b1"
+
+[[files]]
+file = "mods/rechiseled-model-compat-1.21.1-1.0.0.jar"
+hash = "bb0acad996f41380d6040d67c6d9660cecc05b265554cdf3a8a43917b1947244"
 
 [[files]]
 file = "mods/sablefix-2.1.0.jar"
