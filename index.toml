@@ -145,6 +145,10 @@ file = "mods/armor-glint-compat-1.21.1-1.0.0.jar"
 hash = "6f9fb54381e4d404437e44b03f4741a2306e7f166ec95d3dcac7caf5068fbd4e"
 
 [[files]]
+file = "mods/betterend-superflat-compat-1.21.1-1.0.0.jar"
+hash = "4c4578b043e843cb109823496f3d84b3c00fda406993d4da1dc7462a521e0cba"
+
+[[files]]
 file = "mods/collective-1.21.1-8.39.jar"
 hash = "ae59b63790c3097fb01e7801c21f3e7feed13b151c2ad993895196c74381a8fe"
 
