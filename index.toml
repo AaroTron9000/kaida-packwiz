@@ -93,6 +93,14 @@ file = "mods/AE2-TangibleBookmarks-1.21.1-19.1.0.jar"
 hash = "1ba0b898e71603ce3cf0977b3115d41df1f023999a978127457dc3267dff7ca6"
 
 [[files]]
+file = "mods/AE2-Things-1.4.2-beta.jar"
+hash = "9725dd363cc874601737b417ddfe675e4a5ae4a6428bdeb67ac408f775eb4241"
+
+[[files]]
+file = "mods/AdvancedAE-1.6.12-1.21.1.jar"
+hash = "a01d9718667ac13899013e91c5b0b7708b9b9db1da9b8e380772dde54bbe8f41"
+
+[[files]]
 file = "mods/AdvancedLootInfo-neoforge-1.21.1-1.12.0.jar"
 hash = "67b5e5cbf7ab780042b6aa86ade5f14eaf006c810daed66046bc5f85033e9714"
 
@@ -103,6 +111,14 @@ hash = "5d9f86d8345beb25189e21044ecd19c9140c77c6e9010fb1a7f2250fde775e05"
 [[files]]
 file = "mods/Applied-Mekanistics-1.6.3.jar"
 hash = "8946fea39451dbce8e709dedbef40a52ba337bdf7a25ac0c4b503800b1bf0773"
+
+[[files]]
+file = "mods/ExtendedAE-1.21-2.2.35-neoforge.jar"
+hash = "14a2860fa2c747e9dda2279b8933fac6311fecfee166c765171022b902591c65"
+
+[[files]]
+file = "mods/Glodium-1.21-2.2-neoforge.jar"
+hash = "369e99753df0bdc90a38a8c52df4abb37baf6b18c6ca130af4c7bc75fb160a85"
 
 [[files]]
 file = "mods/JustEnoughBeacons-NeoForge-1.21-1.3.0.jar"
@@ -145,8 +161,32 @@ file = "mods/armor-glint-compat-1.21.1-1.0.0.jar"
 hash = "6f9fb54381e4d404437e44b03f4741a2306e7f166ec95d3dcac7caf5068fbd4e"
 
 [[files]]
+file = "mods/ars_elemental-1.21.1-0.7.10.1.jar"
+hash = "7a3aea48d7210ce0f150cace1c1c30fca78c7ede50f80ae70e7a692328dfa548"
+
+[[files]]
+file = "mods/ars_nouveau-1.21.1-5.13.1.jar"
+hash = "99dff85e8778f7ae21dfd51cdedadf20f555a834fc757c0afe5f03c10eea96f2"
+
+[[files]]
+file = "mods/ars_polymorphia-1.0.3.jar"
+hash = "2b7724eb346a71b6e395a4ac781c1ecbfe37e6e813811f4aba2df8ff5d7c894d"
+
+[[files]]
+file = "mods/arseng-2.1.1-beta.jar"
+hash = "9e2b78101f08bf325589cb98ffba9d91171fdd76ba587d54bdef9d5de18080bc"
+
+[[files]]
+file = "mods/artifacts-neoforge-13.2.3.jar"
+hash = "5841434f9ac404de3d3fdd05880f699b41d4388c4047aba4eccc70e356892e48"
+
+[[files]]
 file = "mods/betterend-superflat-compat-1.21.1-1.0.0.jar"
 hash = "4c4578b043e843cb109823496f3d84b3c00fda406993d4da1dc7462a521e0cba"
+
+[[files]]
+file = "mods/chisels-and-bits-neoforge-21.1.32.jar"
+hash = "982f4523abc12c5de1e84410f4e0ee29e134e854272c3bdb2c8fe24841a21265"
 
 [[files]]
 file = "mods/collective-1.21.1-8.39.jar"
@@ -193,8 +233,32 @@ file = "mods/mekagenjei-1.2.jar"
 hash = "ac5e5a3600e1d45c5326fc28cbe71f62c2cdaaa2402886e238f2c462119a56c7"
 
 [[files]]
+file = "mods/modonomicon-1.21.1-neoforge-1.120.4.jar"
+hash = "35d055e524c3491126ebe874984e8d77cb18460de4479d03a36d9f00404cc726"
+
+[[files]]
 file = "mods/more-enchantment-info-0.4.2.jar"
 hash = "c01b127336ca27bf17dddbd645714cb77f2be4b1a421f41efa581ae2458e6649"
+
+[[files]]
+file = "mods/morerelics-1.7.7-forRelics-0.12.8-1.0-1.21.1.jar"
+hash = "c3d71a841ef483d36e062fed5b17c4724260ce4e78ffe7ab9368264ab64d42d2"
+
+[[files]]
+file = "mods/occultengineering-1.21.1-0.13.1.jar"
+hash = "ed2c93a14ada06e86c10cf5606676a7e3c28541778dee6ff5ede32062c89c7f1"
+
+[[files]]
+file = "mods/occultism-1.21.1-neoforge-1.224.4.jar"
+hash = "b82a5ed9468d64beac21139aff5f15db287104668d8e98db7eafc042c9a79178"
+
+[[files]]
+file = "mods/occultism_extra_spirits-1.21.1-neoforge-0.1.5.jar"
+hash = "f471a9dd55c485d3176c73cf6fac482e9eb1009e93d3b6f08298888060c2dcaa"
+
+[[files]]
+file = "mods/polymorphic_occultism-1.21.1-1.0.1.jar"
+hash = "6776aa4935c829659a5f341c1339accbb4c2fe23124d577da65d815c8efb70d1"
 
 [[files]]
 file = "mods/preloading-tricks-3.7.3.jar"
@@ -203,6 +267,14 @@ hash = "b108b4a27707cbe01061f1a844a9afb4a77a3b42b2a221e6fa592d46f9d576b1"
 [[files]]
 file = "mods/rechiseled-model-compat-1.21.1-1.0.0.jar"
 hash = "bb0acad996f41380d6040d67c6d9660cecc05b265554cdf3a8a43917b1947244"
+
+[[files]]
+file = "mods/reliquified_ars_nouveau-1.21.1-0.8.1.jar"
+hash = "bdcb07f27293260e0d0e4d24df782da0310a6d383aab2d84a02a2d105a078eaf"
+
+[[files]]
+file = "mods/reliquified_artifacts-1.21.1-1.0.8.jar"
+hash = "360fd701d575b5421675bfdc50c6ed8a22614410eb92dd782424f9b5fb5c0006"
 
 [[files]]
 file = "mods/sablefix-2.1.0.jar"
@@ -223,6 +295,10 @@ hash = "af912c4992eb9cb47628cd112021937b4d7d11cdd5a89051bdf126742e2c1c57"
 [[files]]
 file = "mods/sophisticated_jei_index-1.1.2+1.21.1.jar"
 hash = "c4e34fbba24b46aa4902d93bb46da94e5d44bd7516e271b39fdcdcc3a60f012c"
+
+[[files]]
+file = "mods/terra_curio-1.1.2.jar"
+hash = "5a1d65b13131e564113e293de81b8a931d736f6d5277b3e6843d341852b73323"
 
 [[files]]
 file = "mods/trimsbegone-1.22.jar"
